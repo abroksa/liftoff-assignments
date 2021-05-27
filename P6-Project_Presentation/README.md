@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-Upload a .PDF of your presentation here for review.
+[Korba Liftoff Project Presentation.pdf](https://github.com/abroksa/liftoff-assignments/files/6557048/Korba.Liftoff.Project.Presentation.pdf)
