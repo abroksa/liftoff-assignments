@@ -14,4 +14,4 @@ www.linkedin.com/in/alexia-korba
 
 ### Resume
 Google Doc link with permission request enabled:
-https://docs.google.com/document/d/1igSn5NriYZ08Q3niPGr3snOJXLclpb91abUELd85q5U/edit?usp=sharing
+https://docs.google.com/document/d/15ObViEhUQPbfKEDpbWH9S_p-pWMvaRgDZ_b1PS2sxwU/edit?usp=sharing
